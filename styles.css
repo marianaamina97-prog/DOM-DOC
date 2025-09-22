@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    font-size: 24px;
+    text-align: start;
+    font-family: Arial, sans-serif;
+}
+#msg{
+    color: black;
+    font-size: 12px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+.Add{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
