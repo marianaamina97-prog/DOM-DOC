@@ -17,3 +17,6 @@ h1{
     border: none;
     border-radius: 5px;
 }
+strike{
+    text-decoration: line-through;
+}
